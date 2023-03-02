@@ -1,21 +1,23 @@
-### Hi there 👋
+### Hi there 👋, my name is Julian
+#### I am Developer & Gamer
+I am very interested in information technology and artificial intelligence.
 
-Welcome to my GitHub profile!
+Skills: HTML/CSS / Batch / GLua / Python / Java / PHP
 
-#### 🧍 About me
-- 💻 Developer
-- 🎮 Gamer
-
-#### 🖥️ Skills
-- HTML/CSS
-- Batch
-- GLua
-- Java
-- Python
-- PHP
+- 🔭 I’m currently working on my own Server Hosting 
+- 🌱 I’m currently learning Python 
+- 🤔 I’m looking for help with WHMCS 
+- 💬 Ask me about Errors 
+- 📫 How to reach me: duckteam@galaxic-galaxy.de 
+- 😄 Pronouns: He/Him 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RealDuckteam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/realduckteam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/realDuckteam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/duckteam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17693423)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCn5rbi5KN_34QCouF2AXIWQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://duckteam.ga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/JulianDieEnte/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/moleculer.svg' alt='moleculer' height='40'>](https://galaxic-galaxy.de)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/serverfault.svg' alt='serverfault' height='40'>](https://hoster.galaxic-galaxy.de/portal)  
 
-#### 🔨 Projects
-- [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/ "Garry's Mod on Steam") server at [Der-Darke](https://der-darke.cf/ "Der-Darke")
-- Learning C#
+[![trophy](https://github-profile-trophy.vercel.app/?username=RealDuckteam)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealDuckteam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RealDuckteam&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/RealDuckteam)  
