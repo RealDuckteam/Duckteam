@@ -8,7 +8,7 @@ Skills: HTML/CSS / Batch / GLua / Python / Java / PHP
 - 🌱 I’m currently learning Python 
 - 🤔 I’m looking for help with WHMCS 
 - 💬 Ask me about Errors 
-- 📫 How to reach me: duckteam@galaxic-galaxy.de 
+- 📫 How to reach me on Discord: duckteam
 - 😄 Pronouns: He/Him 
 
 
